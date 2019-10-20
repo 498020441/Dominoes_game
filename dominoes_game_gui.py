@@ -1,8 +1,8 @@
 import sys
 import tkinter as Tkinter
 
-# import mxl482hw3 as homework3 # change this to filename
-import homework3
+
+import minimax_alpha_beta_seraching_solver as homework3
 class Square(Tkinter.Canvas):
 
     COLOR_EMPTY = "white"
